@@ -5,7 +5,7 @@ I love mobile apps, distributed systems and the challenges associated with them.
 I like writing, teaching and sharing my knowledge with other engineers.
 
 - 🔭 I’m currently working on K-Lagan as a Senior Software Engineer
-- 💬 Ask me about Open source, Xamarin, C#, Software design, Design patters, TDD
+- 💬 Ask me about Open source, Xamarin, C#, Software design, Design patterns, TDD
 - 📫 Download my [CV](https://curtme.org/AUYMW5H)
 - ⚡ Useful Link: [Github](https://curtme.org/K77ZLF3), [Blog](https://curtme.org/A0E9EKJ), [Twitter](https://curtme.org/7E10TFP), [Facebook](https://curtme.org/HIXBTPX), [Linkedin](https://curtme.org/YS3B5T8), [Skype](https://curtme.org/L9ASB1L)
 
